@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "day3": {
+      "main": "main.mo",
+      "type": "motoko"
+    }
+  }
+}
